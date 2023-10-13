@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SeanNakagawa
-- 👀 I’m interested in martial arts tricking
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on computer science
-- 📫 How to reach me ...
+- I’m @SeanNakagawa
+- I’m interested in tricking
+- I’m currently learning coding
+- I’m looking to collaborate on computer science
 
 <!---
 SeanNakagawa/SeanNakagawa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
